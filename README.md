@@ -1,2 +1,2 @@
 # linkedin-clone-demo
-clone basic functionality and UI
+Clone basic functionality and UI
